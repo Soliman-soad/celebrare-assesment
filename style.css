@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+nav{
+    background-color: #199241;
+    width: 100%;
+    padding: 1.3rem;
+    color: white;
+    font-size: 1.5rem;
+    text-align: center;
+}
+.upload-section{
+    margin-top: 20px;
+    text-align: center;
+}
+#upload-Image{
+    background-color: #199241;
+}
+#display-section{
+    width: 50%;
+    margin: 10px auto;
+    border: gray 1px solid;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
