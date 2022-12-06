@@ -20,8 +20,11 @@ nav{
 }
 #display-section{
     width: 50%;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
     margin: 10px auto;
-    border: gray 1px solid;
     padding: 20px;
     display: flex;
     align-items: center;
